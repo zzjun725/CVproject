@@ -1,0 +1,10 @@
+__pycache__/
+.idea/
+data/
+train_result/
+predict_vis/
+gt_vis/
+checkpoint680.pth
+.git/
+*.png
+plot_loss.py
